@@ -9,26 +9,50 @@
     {"key":"pants",
       "gender":"male",
       "size":"small",
-      "color":"pink",
+      "color":"blue",
       "image":"../img/blue_p.png"
      },
      {"key":"pants",
       "gender":"male",
       "size":"small",
       "color":"pink",
-      "image":"../img/blue_p.png"
+      "image":"../img/pink_p.png"
      },
      {"key":"pants",
       "gender":"male",
-      "size":"small",
+      "size":"large",
+      "color":"yellow",
+      "image":"../img/yellow_p.png"
+     },
+     {"key":"skirt",
+      "gender":"male",
+      "size":"large",
       "color":"pink",
-      "image":"../img/blue_p.png"
+      "image":"../img/pink_s.png"
      },
      {"key":"tshirt",
       "gender":"female",
       "size":"large",
       "color":"pink",
       "image":"../img/pink_t.png"
+     },
+     {"key":"tshirt",
+      "gender":"female",
+      "size":"small",
+      "color":"yellow",
+      "image":"../img/yellow_t.png"
+     },
+     {"key":"pants",
+      "gender":"male",
+      "size":"small",
+      "color":"blue",
+      "image":"../img/blue_p.png"
+     },
+     {"key":"tshirt",
+      "gender":"female",
+      "size":"small",
+      "color":"yellow",
+      "image":"../img/yellow_t.png"
      }
   ]
 }
